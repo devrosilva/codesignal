@@ -60,4 +60,5 @@ public class AlmostIncreasingSequence {
 	        return false;
 	    }
 	}
+	
 }

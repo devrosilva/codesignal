@@ -7,7 +7,6 @@ Example
 
 For inputArray = ["aba", "aa", "ad", "vcd", "aba"], the output should be
 allLongestStrings(inputArray) = ["aba", "vcd", "aba"].
-
 */
 public class AllLongestStrings{
 	/*Method created as static to facilitate use. One way to test it is to 
@@ -41,4 +40,5 @@ public class AllLongestStrings{
 	    }
 	    return returnArray;
 	}
+	
 }

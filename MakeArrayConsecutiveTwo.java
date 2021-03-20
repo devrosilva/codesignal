@@ -54,4 +54,5 @@ public class MakeArrayConsecutiveTwo {
 		    //Return the number of missing elements to achieve the desired sequence asked in the problem.
 		    return (max - min + 1) - statues.length;
 		}
+		
 }
