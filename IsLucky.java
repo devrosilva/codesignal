@@ -1,4 +1,3 @@
-//Create a isLucky package and add the class or change the package name if you prefer.
 package islucky;
 
 /*
@@ -16,7 +15,7 @@ Example
 
  */
 
-//Method modified to static to facilitate use. To test call the method at main passing a int number as argument.
+//Method modified to static to facilitate use. To test it, call the method at main passing a int number as argument.
 public class IsLucky {
 	public static boolean isLucky(int n) {
 	    Integer integerN = n;
